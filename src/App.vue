@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-app-bar app color="primary" dark> Gideon Web Vue Scanner App </v-app-bar>
+    <v-app-bar app color="primary" dark> Gideon Web Scanner App </v-app-bar>
 
     <v-main>
       <DWT />
